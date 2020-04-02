@@ -2,7 +2,7 @@
   <div>
     <title-bar :title-stack="titleStack"/>
     <hero-bar :has-right-visible="false">
-      Sobre nosotros
+      Sobre nosotros wsw
     </hero-bar>
     <section class="section is-main-section">
 
